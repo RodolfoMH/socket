@@ -1,0 +1,92 @@
+Mar 11, 2021 8:31:14 AM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"11/03/2021 08:31:14", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "45" }
+Mar 15, 2021 3:02:59 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"15/03/2021 15:02:59", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "FGFG" }
+Mar 15, 2021 3:04:17 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"15/03/2021 15:04:17", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Hola" }
+Mar 15, 2021 3:04:35 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"15/03/2021 15:04:35", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "dime" }
+Mar 15, 2021 3:04:43 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"15/03/2021 15:04:43", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "dale tu" }
+Mar 15, 2021 3:05:14 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"15/03/2021 15:05:14", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "hjh" }
+Mar 15, 2021 3:16:53 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"15/03/2021 15:16:53", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "BN" }
+Mar 16, 2021 9:22:16 AM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 09:22:16", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Jx" }
+Mar 16, 2021 9:22:32 AM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 09:22:32", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "Uy" }
+Mar 16, 2021 9:23:29 AM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 09:23:29", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Nnm" }
+Mar 16, 2021 9:24:32 AM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 09:24:32", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "Kj" }
+Mar 16, 2021 9:46:32 AM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 09:46:32", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Kf" }
+Mar 16, 2021 9:46:39 AM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 09:46:39", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Jdkd" }
+Mar 16, 2021 9:46:43 AM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 09:46:43", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Uufkf" }
+Mar 16, 2021 9:46:50 AM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 09:46:50", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Cuf" }
+Mar 16, 2021 9:46:56 AM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 09:46:56", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Eieke" }
+Mar 16, 2021 9:58:57 AM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 09:58:57", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Jk" }
+Mar 16, 2021 11:45:09 AM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 11:45:09", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "hola" }
+Mar 16, 2021 2:11:28 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 14:11:28", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "lk" }
+Mar 16, 2021 2:13:06 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 14:13:06", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "sd" }
+Mar 16, 2021 2:13:26 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 14:13:26", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "0" }
+Mar 16, 2021 2:13:33 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 14:13:33", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "fg" }
+Mar 16, 2021 2:13:34 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 14:13:34", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "f" }
+Mar 16, 2021 4:44:16 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:44:16", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "Jp" }
+Mar 16, 2021 4:45:51 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:45:51", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "H" }
+Mar 16, 2021 4:45:59 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:45:59", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "Bn" }
+Mar 16, 2021 4:46:15 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:46:15", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Haha " }
+Mar 16, 2021 4:46:19 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:46:19", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "Bj" }
+Mar 16, 2021 4:46:31 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:46:31", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "Nb" }
+Mar 16, 2021 4:46:41 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:46:41", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "Jj" }
+Mar 16, 2021 4:46:51 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:46:51", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "Hh" }
+Mar 16, 2021 4:47:13 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:47:13", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "B" }
+Mar 16, 2021 4:47:28 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:47:28", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": " Gg" }
+Mar 16, 2021 4:47:42 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:47:42", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Bb" }
+Mar 16, 2021 4:47:49 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:47:49", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Bb" }
+Mar 16, 2021 4:47:59 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:47:59", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "Yy" }
+Mar 16, 2021 4:48:19 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:48:19", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "Jj" }
+Mar 16, 2021 4:48:29 PM com.newsoft.ElCamareroSocketServer.Utilities.LoggerChats log
+INFO: {"fecha":"16/03/2021 16:48:29", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "Uu" }
+Mar 18, 2021 9:07:39 AM com.newsoft.ElCamareroSocketServer.Utilities.ServerLogger log
+INFO: {"fecha":"18/03/2021 09:07:39", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "5" }
+Mar 18, 2021 9:07:59 AM com.newsoft.ElCamareroSocketServer.Utilities.ServerLogger log
+INFO: {"fecha":"18/03/2021 09:07:59", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "u" }
+Mar 18, 2021 9:08:26 AM com.newsoft.ElCamareroSocketServer.Utilities.ServerLogger log
+INFO: {"fecha":"18/03/2021 09:08:26", "emisor": "RVALENZUELA" "receptor": "["AVASQUEZ"]" "mensaje": "X" }
+Mar 18, 2021 9:08:46 AM com.newsoft.ElCamareroSocketServer.Utilities.ServerLogger log
+INFO: {"fecha":"18/03/2021 09:08:46", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Jk" }
+Mar 18, 2021 9:08:53 AM com.newsoft.ElCamareroSocketServer.Utilities.ServerLogger log
+INFO: {"fecha":"18/03/2021 09:08:53", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Nn" }
+Mar 18, 2021 9:13:37 AM com.newsoft.ElCamareroSocketServer.Utilities.ServerLogger log
+INFO: {"fecha":"18/03/2021 09:13:37", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Nn" }
+Mar 18, 2021 10:56:43 AM com.newsoft.ElCamareroSocketServer.Utilities.ServerLogger log
+INFO: {"fecha":"18/03/2021 10:56:43", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "Hola" }
+Mar 18, 2021 11:21:05 AM com.newsoft.ElCamareroSocketServer.Utilities.ServerLogger log
+INFO: {"fecha":"18/03/2021 11:21:05", "emisor": "AVASQUEZ" "receptor": "["RVALENZUELA"]" "mensaje": "!" }

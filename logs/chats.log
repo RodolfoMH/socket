@@ -1,0 +1,147 @@
+22/05/2021 11:37:29 am [INFO   ] {"fecha":"22/05/2021 11:37:29", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "heloo" } 
+22/05/2021 11:37:47 am [INFO   ] {"fecha":"22/05/2021 11:37:47", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "heloo" } 
+22/05/2021 11:40:15 am [INFO   ] {"fecha":"22/05/2021 11:40:15", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "HOLA ALFREDO" } 
+22/05/2021 11:51:00 am [INFO   ] {"fecha":"22/05/2021 11:51:00", "emisor": "AVASQUEZ" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+22/05/2021 11:52:02 am [INFO   ] {"fecha":"22/05/2021 11:52:02", "emisor": "AVASQUEZ" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+22/05/2021 11:52:33 am [INFO   ] {"fecha":"22/05/2021 11:52:33", "emisor": "AVASQUEZ" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+22/05/2021 11:52:48 am [INFO   ] {"fecha":"22/05/2021 11:52:48", "emisor": "AVASQUEZ" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA COMO ESTAN" } 
+22/05/2021 11:57:03 am [INFO   ] {"fecha":"22/05/2021 11:57:03", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA A TODOS" } 
+24/05/2021 08:44:40 am [INFO   ] {"fecha":"24/05/2021 08:44:40", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 08:45:06 am [INFO   ] {"fecha":"24/05/2021 08:45:06", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 08:46:58 am [INFO   ] {"fecha":"24/05/2021 08:46:58", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 08:47:03 am [INFO   ] {"fecha":"24/05/2021 08:47:03", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 09:21:11 am [INFO   ] {"fecha":"24/05/2021 09:21:11", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 09:21:45 am [INFO   ] {"fecha":"24/05/2021 09:21:45", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 09:24:29 am [INFO   ] {"fecha":"24/05/2021 09:24:29", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 09:25:32 am [INFO   ] {"fecha":"24/05/2021 09:25:32", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 09:25:50 am [INFO   ] {"fecha":"24/05/2021 09:25:50", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 09:40:58 am [INFO   ] {"fecha":"24/05/2021 09:40:58", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "Hola Como estas" } 
+24/05/2021 09:42:55 am [INFO   ] {"fecha":"24/05/2021 09:42:55", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 10:11:48 am [INFO   ] {"fecha":"24/05/2021 10:11:48", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 10:12:27 am [INFO   ] {"fecha":"24/05/2021 10:12:27", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 10:20:49 am [INFO   ] {"fecha":"24/05/2021 10:20:49", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 10:20:51 am [INFO   ] {"fecha":"24/05/2021 10:20:51", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 10:21:03 am [INFO   ] {"fecha":"24/05/2021 10:21:03", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 10:40:50 am [INFO   ] {"fecha":"24/05/2021 10:40:50", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOla" } 
+24/05/2021 10:59:48 am [INFO   ] {"fecha":"24/05/2021 10:59:48", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "Hola" } 
+24/05/2021 11:00:01 am [INFO   ] {"fecha":"24/05/2021 11:00:01", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:00:08 am [INFO   ] {"fecha":"24/05/2021 11:00:08", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:00:28 am [INFO   ] {"fecha":"24/05/2021 11:00:28", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:02:19 am [INFO   ] {"fecha":"24/05/2021 11:02:19", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:04:45 am [INFO   ] {"fecha":"24/05/2021 11:04:45", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:09:08 am [INFO   ] {"fecha":"24/05/2021 11:09:08", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:09:20 am [INFO   ] {"fecha":"24/05/2021 11:09:20", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:09:23 am [INFO   ] {"fecha":"24/05/2021 11:09:23", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:09:25 am [INFO   ] {"fecha":"24/05/2021 11:09:25", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hopla" } 
+24/05/2021 11:12:48 am [INFO   ] {"fecha":"24/05/2021 11:12:48", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:13:44 am [INFO   ] {"fecha":"24/05/2021 11:13:44", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:17:52 am [INFO   ] {"fecha":"24/05/2021 11:17:52", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:18:32 am [INFO   ] {"fecha":"24/05/2021 11:18:32", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:23:13 am [INFO   ] {"fecha":"24/05/2021 11:23:13", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:24:01 am [INFO   ] {"fecha":"24/05/2021 11:24:01", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:24:05 am [INFO   ] {"fecha":"24/05/2021 11:24:05", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:24:51 am [INFO   ] {"fecha":"24/05/2021 11:24:51", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:25:11 am [INFO   ] {"fecha":"24/05/2021 11:25:11", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:27:40 am [INFO   ] {"fecha":"24/05/2021 11:27:40", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:29:42 am [INFO   ] {"fecha":"24/05/2021 11:29:42", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:29:54 am [INFO   ] {"fecha":"24/05/2021 11:29:54", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:30:13 am [INFO   ] {"fecha":"24/05/2021 11:30:13", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:30:56 am [INFO   ] {"fecha":"24/05/2021 11:30:56", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:31:07 am [INFO   ] {"fecha":"24/05/2021 11:31:07", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:31:14 am [INFO   ] {"fecha":"24/05/2021 11:31:14", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 11:31:51 am [INFO   ] {"fecha":"24/05/2021 11:31:51", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "ENVIAR CUENTA A LA MESA NO. 10" } 
+24/05/2021 11:32:30 am [INFO   ] {"fecha":"24/05/2021 11:32:30", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+24/05/2021 11:48:48 am [INFO   ] {"fecha":"24/05/2021 11:48:48", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+24/05/2021 11:56:14 am [INFO   ] {"fecha":"24/05/2021 11:56:14", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+24/05/2021 12:00:50 pm [INFO   ] {"fecha":"24/05/2021 12:00:50", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:00:54 pm [INFO   ] {"fecha":"24/05/2021 12:00:54", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:01:06 pm [INFO   ] {"fecha":"24/05/2021 12:01:06", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:01:11 pm [INFO   ] {"fecha":"24/05/2021 12:01:11", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:01:48 pm [INFO   ] {"fecha":"24/05/2021 12:01:48", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:06:04 pm [INFO   ] {"fecha":"24/05/2021 12:06:04", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:08:24 pm [INFO   ] {"fecha":"24/05/2021 12:08:24", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:24:01 pm [INFO   ] {"fecha":"24/05/2021 12:24:01", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:24:09 pm [INFO   ] {"fecha":"24/05/2021 12:24:09", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:24:22 pm [INFO   ] {"fecha":"24/05/2021 12:24:22", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:24:35 pm [INFO   ] {"fecha":"24/05/2021 12:24:35", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:24:39 pm [INFO   ] {"fecha":"24/05/2021 12:24:39", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:25:06 pm [INFO   ] {"fecha":"24/05/2021 12:25:06", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:25:11 pm [INFO   ] {"fecha":"24/05/2021 12:25:11", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+24/05/2021 12:30:29 pm [INFO   ] {"fecha":"24/05/2021 12:30:29", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+24/05/2021 12:31:17 pm [INFO   ] {"fecha":"24/05/2021 12:31:17", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+24/05/2021 12:31:35 pm [INFO   ] {"fecha":"24/05/2021 12:31:35", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+24/05/2021 12:33:46 pm [INFO   ] {"fecha":"24/05/2021 12:33:46", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+24/05/2021 12:34:05 pm [INFO   ] {"fecha":"24/05/2021 12:34:05", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+24/05/2021 12:35:37 pm [INFO   ] {"fecha":"24/05/2021 12:35:37", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+24/05/2021 12:35:38 pm [INFO   ] {"fecha":"24/05/2021 12:35:38", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+24/05/2021 12:37:16 pm [INFO   ] {"fecha":"24/05/2021 12:37:16", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "HOLA" } 
+28/05/2021 12:11:30 pm [INFO   ] {"fecha":"28/05/2021 12:11:30", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+28/05/2021 12:12:44 pm [INFO   ] {"fecha":"28/05/2021 12:12:44", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+28/05/2021 12:12:48 pm [INFO   ] {"fecha":"28/05/2021 12:12:48", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+28/05/2021 12:12:51 pm [INFO   ] {"fecha":"28/05/2021 12:12:51", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+28/05/2021 12:12:52 pm [INFO   ] {"fecha":"28/05/2021 12:12:52", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "como" } 
+28/05/2021 12:12:54 pm [INFO   ] {"fecha":"28/05/2021 12:12:54", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "esta" } 
+28/05/2021 12:13:01 pm [INFO   ] {"fecha":"28/05/2021 12:13:01", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "alfredo" } 
+28/05/2021 12:13:07 pm [INFO   ] {"fecha":"28/05/2021 12:13:07", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "alfredo" } 
+28/05/2021 03:16:30 pm [INFO   ] {"fecha":"28/05/2021 15:16:30", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+28/05/2021 03:16:51 pm [INFO   ] {"fecha":"28/05/2021 15:16:51", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "Como" } 
+28/05/2021 03:16:57 pm [INFO   ] {"fecha":"28/05/2021 15:16:57", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "estas" } 
+28/05/2021 03:17:39 pm [INFO   ] {"fecha":"28/05/2021 15:17:39", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "sdgfsdgffsgfdg" } 
+28/05/2021 03:32:51 pm [INFO   ] {"fecha":"28/05/2021 15:32:51", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+28/05/2021 03:33:22 pm [INFO   ] {"fecha":"28/05/2021 15:33:22", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+28/05/2021 03:58:47 pm [INFO   ] {"fecha":"28/05/2021 15:58:47", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola todos" } 
+28/05/2021 04:37:20 pm [INFO   ] {"fecha":"28/05/2021 16:37:19", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola" } 
+28/05/2021 04:39:30 pm [INFO   ] {"fecha":"28/05/2021 16:39:30", "emisor": "JMOREL" "receptor": "["AVASQUEZ","RVALENZUELA"]" "mensaje": "hola alfredo" } 
+01/06/2021 09:20:35 am [INFO   ] {"fecha":"01/06/2021 09:20:35 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "HOLA" } 
+01/06/2021 09:22:19 am [INFO   ] {"fecha":"01/06/2021 09:22:19 AM", "emisor": "JMOREL" "receptor": "["AVASQUEZ"]" "mensaje": "cOMO TE FUE" } 
+01/06/2021 09:29:57 am [INFO   ] {"fecha":"01/06/2021 09:29:57 AM", "emisor": "JMOREL" "receptor": "["AVASQUEZ"]" "mensaje": "KLK" } 
+01/06/2021 11:03:39 am [INFO   ] {"fecha":"01/06/2021 11:03:39 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:39 am [INFO   ] {"fecha":"01/06/2021 11:03:39 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:40 am [INFO   ] {"fecha":"01/06/2021 11:03:40 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:40 am [INFO   ] {"fecha":"01/06/2021 11:03:40 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:40 am [INFO   ] {"fecha":"01/06/2021 11:03:40 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:41 am [INFO   ] {"fecha":"01/06/2021 11:03:41 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:41 am [INFO   ] {"fecha":"01/06/2021 11:03:41 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:42 am [INFO   ] {"fecha":"01/06/2021 11:03:42 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:42 am [INFO   ] {"fecha":"01/06/2021 11:03:42 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:42 am [INFO   ] {"fecha":"01/06/2021 11:03:42 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:43 am [INFO   ] {"fecha":"01/06/2021 11:03:43 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:43 am [INFO   ] {"fecha":"01/06/2021 11:03:43 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:43 am [INFO   ] {"fecha":"01/06/2021 11:03:43 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:44 am [INFO   ] {"fecha":"01/06/2021 11:03:44 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:44 am [INFO   ] {"fecha":"01/06/2021 11:03:44 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:44 am [INFO   ] {"fecha":"01/06/2021 11:03:44 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:45 am [INFO   ] {"fecha":"01/06/2021 11:03:45 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:45 am [INFO   ] {"fecha":"01/06/2021 11:03:45 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:03:45 am [INFO   ] {"fecha":"01/06/2021 11:03:45 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL","RVALENZUELA"]" "mensaje": "Ejemplo desde powerbuilder" } 
+01/06/2021 11:27:10 am [INFO   ] {"fecha":"01/06/2021 11:27:10 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text1" } 
+01/06/2021 11:31:24 am [INFO   ] {"fecha":"01/06/2021 11:31:24 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text1" } 
+01/06/2021 11:34:15 am [INFO   ] {"fecha":"01/06/2021 11:34:15 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text1" } 
+01/06/2021 11:34:15 am [INFO   ] {"fecha":"01/06/2021 11:34:15 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text1" } 
+01/06/2021 11:34:41 am [INFO   ] {"fecha":"01/06/2021 11:34:41 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text1" } 
+01/06/2021 11:34:41 am [INFO   ] {"fecha":"01/06/2021 11:34:41 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text1" } 
+01/06/2021 11:35:08 am [INFO   ] {"fecha":"01/06/2021 11:35:08 AM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text1" } 
+01/06/2021 12:07:57 pm [INFO   ] {"fecha":"01/06/2021 12:07:57 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text1" } 
+01/06/2021 12:09:02 pm [INFO   ] {"fecha":"01/06/2021 12:09:02 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text1" } 
+01/06/2021 12:11:20 pm [INFO   ] {"fecha":"01/06/2021 12:11:20 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text1" } 
+01/06/2021 12:12:12 pm [INFO   ] {"fecha":"01/06/2021 12:12:12 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text1" } 
+01/06/2021 02:54:31 pm [INFO   ] {"fecha":"01/06/2021 02:54:31 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Hola" } 
+01/06/2021 02:55:59 pm [INFO   ] {"fecha":"01/06/2021 02:55:59 PM", "emisor": "JMOREL" "receptor": "["AVASQUEZ"]" "mensaje": "Como te fue" } 
+01/06/2021 02:56:31 pm [INFO   ] {"fecha":"01/06/2021 02:56:31 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Bien gracias" } 
+01/06/2021 02:57:11 pm [INFO   ] {"fecha":"01/06/2021 02:57:11 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Y a ti" } 
+01/06/2021 02:57:35 pm [INFO   ] {"fecha":"01/06/2021 02:57:35 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "te fue bien" } 
+01/06/2021 02:59:43 pm [INFO   ] {"fecha":"01/06/2021 02:59:43 PM", "emisor": "JMOREL" "receptor": "["AVASQUEZ"]" "mensaje": "ok" } 
+01/06/2021 03:09:43 pm [INFO   ] {"fecha":"01/06/2021 03:09:43 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text1" } 
+01/06/2021 03:09:43 pm [INFO   ] {"fecha":"01/06/2021 03:09:43 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text2" } 
+01/06/2021 03:09:43 pm [INFO   ] {"fecha":"01/06/2021 03:09:43 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text3" } 
+01/06/2021 03:09:44 pm [INFO   ] {"fecha":"01/06/2021 03:09:44 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text4" } 
+01/06/2021 03:09:44 pm [INFO   ] {"fecha":"01/06/2021 03:09:44 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text5" } 
+01/06/2021 03:09:44 pm [INFO   ] {"fecha":"01/06/2021 03:09:44 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text6" } 
+01/06/2021 03:09:44 pm [INFO   ] {"fecha":"01/06/2021 03:09:44 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text7" } 
+01/06/2021 03:09:44 pm [INFO   ] {"fecha":"01/06/2021 03:09:44 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text8" } 
+01/06/2021 03:09:44 pm [INFO   ] {"fecha":"01/06/2021 03:09:44 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text9" } 
+01/06/2021 03:09:44 pm [INFO   ] {"fecha":"01/06/2021 03:09:44 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text10" } 
+01/06/2021 03:09:45 pm [INFO   ] {"fecha":"01/06/2021 03:09:45 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Text11" } 
+01/06/2021 03:51:28 pm [INFO   ] {"fecha":"01/06/2021 03:51:28 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Hola" } 
+01/06/2021 03:52:23 pm [INFO   ] {"fecha":"01/06/2021 03:52:23 PM", "emisor": "AVASQUEZ" "receptor": "["JMOREL"]" "mensaje": "Hola" } 
+02/06/2021 09:23:42 am [INFO   ] {"fecha":"02/06/2021 09:23:42 AM", "emisor": "JMOREL" "receptor": "["AVASQUEZ"]" "mensaje": "klk" } 
